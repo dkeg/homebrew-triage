@@ -1,6 +1,6 @@
 cask "triage" do
   version "0.1.0"
-  sha256 "REPLACED_BY_RELEASE_WORKFLOW"
+  sha256 "9b0e1651c7a2e02be9119d96f47d152a47971f18a6531bd22e6ffb1d0af349c0"
 
   url "https://github.com/dkeg/triage/releases/download/v#{version}/Triage-#{version}.zip"
   name "triage"
